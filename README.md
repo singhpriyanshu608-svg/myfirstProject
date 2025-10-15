@@ -1,4 +1,4 @@
 # myfirstProject
 This is my first git Repository
 <br>
-Author - Priyanshu Singh
+Author - Priyanshu Singh (apna collage)
